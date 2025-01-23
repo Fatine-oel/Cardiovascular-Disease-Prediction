@@ -27,7 +27,6 @@ The dataset used in this project contains multiple health-related attributes tha
 To run this project locally, you need to clone the repository and install the necessary dependencies.
 
 # 1. Clone the repository:
-   ```bash
    git clone https://github.com/Fatine-oel/Cardiovascular-Disease-Prediction.git
 
 # 2. Navigate into the project directory:
