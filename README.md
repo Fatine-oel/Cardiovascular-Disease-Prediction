@@ -26,29 +26,29 @@ The dataset used in this project contains multiple health-related attributes tha
 
 To run this project locally, you need to clone the repository and install the necessary dependencies.
 
-# 1. Clone the repository:
+## 1. Clone the repository:
    git clone https://github.com/Fatine-oel/Cardiovascular-Disease-Prediction.git
 
-# 2. Navigate into the project directory:
+## 2. Navigate into the project directory:
   cd Cardiovascular-Disease-Prediction
-# Install the required Python packages:
+## Install the required Python packages:
   pip install -r requirements.txt
 
-## Model
+# Model
 The model used in this project is a Classification Model, which aims to predict the likelihood of cardiovascular disease. The model was trained using various algorithms such as logistic regression, K-Means clustering , Random Forest , KNN , and support vector machines (SVM).
 
-## Key Steps:
-# Data Preprocessing:
+# Key Steps:
+## Data Preprocessing:
   Cleaning the data by handling missing values, encoding categorical variables, and scaling numerical values.
 
-# Model Training:
+## Model Training:
   Training the model on the training set and validating it using the testing set.
 
-# Model Evaluation:
+## Model Evaluation:
   Evaluating the model's performance using metrics like accuracy, precision, recall, and F1-score.
 
-# Prediction:
+## Prediction:
   Making predictions on data.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+## Authors
+ **Fatine El Ouahdani** - Lead Developer.
